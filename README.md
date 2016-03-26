@@ -114,4 +114,4 @@ The project files also include the file [tournament_test.py](https://github.com/
 
 - tournament_test.py supplied without rights information, contributed by [Udacity](http://www.udacity.com).
 
-- Remaining code by Edward Bryant is offered under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+- Remaining code by Vince Wang is offered.
