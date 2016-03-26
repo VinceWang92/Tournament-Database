@@ -43,7 +43,7 @@ def countPlayers():
 
 
 def countMatches():
-    """Returns the number of players currently registered."""
+    """Returns the number of matches currently played."""
     db = connect()
     c = db.cursor()
     c.execute('SELECT COALESCE(count(*), 0) FROM matches;')
