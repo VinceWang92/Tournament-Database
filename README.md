@@ -33,7 +33,7 @@ CREATE DATABASE tournament
 
 ### 3. Create Tables 
 
-Two database tables will be required. The first table is to track the players in the tournament (this can be used for individual players or teams). The second table is to track matches within the tournament. The create table statements (see below) are also provided in the [tournament.sql](https://github.com/edwardbryant/udacity-tournament-database/blob/master/tournament.sql) file.
+Two database tables will be required. The first table is to track the players in the tournament (this can be used for individual players or teams). The second table is to track matches within the tournament. The create table statements (see below) are also provided in the [tournament.sql](https://github.com/VinceWang92/tournament/blob/master/tournament.sql) file.
 
 ```
 CREATE TABLE players (
